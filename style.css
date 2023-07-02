@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+    background-color: lightblue;
+}
+#add{
+    background-color: red;
+    color:white;
+}
+#subtract{
+    background-color: blue;
+    color:white;
+}
+#multiply{
+    background-color: orange;
+    color:black;
+}
+#divide{
+    background-color: purple;
+    color:white;
+}
+#sqrt{
+    background-color: green;
+    color:black;
+}
+#pi{
+    background-color: black;
+    color:white;
+}
+img{
+    height:30px;
+    width:30px;
+}
+h3{
+    color: green;
+}
+#pibdy{
+    background-color: black;
+}
